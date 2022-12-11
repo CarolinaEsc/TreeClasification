@@ -1,0 +1,11 @@
+HomeOwner,MaritalStatus,AnnualIncome,DefaultedBorrower
+YES,Single,125,NO
+NO,Married,100,NO
+NO,Single,70,NO
+YES,Married,120,NO
+NO,Divorced,95,YES
+NO,Married,60,NO
+YES,Divorced,220,NO
+NO,Single,85,YES
+NO,Married,75,NO
+NO,Single,90,YES
